@@ -8,6 +8,6 @@
     "start": "http-server ./ -p 3000"
   },
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.12.2"
   }
 }
